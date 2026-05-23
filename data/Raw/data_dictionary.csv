@@ -1,0 +1,21 @@
+﻿file,field,description
+assets.csv,asset_id,Unique synthetic asset identifier.
+assets.csv,asset_name,Synthetic renewable energy asset name.
+assets.csv,technology,"Technology category: offshore wind, solar PV, battery storage, or hydrogen pilot."
+assets.csv,capacity_mw,Nominal installed capacity in MW.
+assets.csv,ownership_share,Economic ownership share used in output calculations.
+monthly_budget.csv,production_mwh,"Budgeted monthly production, throughput, or output in MWh-equivalent terms."
+monthly_actuals.csv,production_mwh,"Actual monthly production, throughput, or output in MWh-equivalent terms."
+monthly_forecast.csv,production_mwh,"Latest forecast monthly production, throughput, or output in MWh-equivalent terms."
+monthly_*,realized_price_eur_mwh,Synthetic realized price or spread capture per MWh.
+monthly_*,revenue_eur,Revenue calculated as production_mwh multiplied by realized_price_eur_mwh.
+monthly_*,direct_opex_eur,Direct monthly operating expenditure.
+monthly_*,allocated_overhead_eur,Allocated monthly overhead.
+monthly_*,ebitda_eur,Revenue less direct opex and allocated overhead.
+monthly_*,capex_eur,Synthetic capital expenditure or project investment timing.
+monthly_*,utilization_pct,"Production divided by theoretical capacity-hours, shown as decimal percentage."
+monthly_*,downtime_hours,Planned or actual downtime hours in the month.
+monthly_*,availability_pct,Availability calculated as 1 minus downtime hours divided by monthly hours.
+variance_drivers.csv,variance_type,"Variance category for bridge analysis: Price, Volume, Downtime, Ramp-up, Opex, Timing/Mix."
+variance_drivers.csv,variance_eur,"Estimated EBITDA variance contribution. Positive is favorable, negative is adverse."
+assumptions.csv,scenario,"Scenario case: Downside, Base, or Upside."

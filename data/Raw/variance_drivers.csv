@@ -1,0 +1,721 @@
+﻿month,asset_id,variance_type,variance_driver,variance_eur,commentary
+2025-01-01,A001,Price,Noordzee Wind A - Price,-604157,Actual realized price versus budgeted realized price.
+2025-01-01,A001,Volume,Noordzee Wind A - Volume,-320804,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-01-01,A001,Downtime,Noordzee Wind A - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2025-01-01,A001,Ramp-up,Noordzee Wind A - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2025-01-01,A001,Opex,Noordzee Wind A - Opex,-66346,Direct operating cost variance; negative values are adverse.
+2025-01-01,A001,Timing/Mix,Noordzee Wind A - Timing/Mix,-5898,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-01-01,A002,Price,Flevoland Solar B - Price,3635,Actual realized price versus budgeted realized price.
+2025-01-01,A002,Volume,Flevoland Solar B - Volume,8491,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-01-01,A002,Downtime,Flevoland Solar B - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2025-01-01,A002,Ramp-up,Flevoland Solar B - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2025-01-01,A002,Opex,Flevoland Solar B - Opex,-1636,Direct operating cost variance; negative values are adverse.
+2025-01-01,A002,Timing/Mix,Flevoland Solar B - Timing/Mix,-1041,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-01-01,A003,Price,Brabant Solar C - Price,-3691,Actual realized price versus budgeted realized price.
+2025-01-01,A003,Volume,Brabant Solar C - Volume,-3732,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-01-01,A003,Downtime,Brabant Solar C - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2025-01-01,A003,Ramp-up,Brabant Solar C - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2025-01-01,A003,Opex,Brabant Solar C - Opex,-1941,Direct operating cost variance; negative values are adverse.
+2025-01-01,A003,Timing/Mix,Brabant Solar C - Timing/Mix,-759,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-01-01,A004,Price,Rotterdam Battery D - Price,2316,Actual realized price versus budgeted realized price.
+2025-01-01,A004,Volume,Rotterdam Battery D - Volume,-21083,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-01-01,A004,Downtime,Rotterdam Battery D - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2025-01-01,A004,Ramp-up,Rotterdam Battery D - Ramp-up,-49194,Battery storage throughput reflects operational ramp-up and dispatch optimization.
+2025-01-01,A004,Opex,Rotterdam Battery D - Opex,-28354,Direct operating cost variance; negative values are adverse.
+2025-01-01,A004,Timing/Mix,Rotterdam Battery D - Timing/Mix,-2630,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-01-01,A005,Price,Groningen Hydrogen Pilot E - Price,-781,Actual realized price versus budgeted realized price.
+2025-01-01,A005,Volume,Groningen Hydrogen Pilot E - Volume,-34834,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-01-01,A005,Downtime,Groningen Hydrogen Pilot E - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2025-01-01,A005,Ramp-up,Groningen Hydrogen Pilot E - Ramp-up,-81278,Hydrogen pilot ramp-up behind budgeted production curve.
+2025-01-01,A005,Opex,Groningen Hydrogen Pilot E - Opex,-155827,Direct operating cost variance; negative values are adverse.
+2025-01-01,A005,Timing/Mix,Groningen Hydrogen Pilot E - Timing/Mix,-5689,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-02-01,A001,Price,Noordzee Wind A - Price,-504313,Actual realized price versus budgeted realized price.
+2025-02-01,A001,Volume,Noordzee Wind A - Volume,73454,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-02-01,A001,Downtime,Noordzee Wind A - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2025-02-01,A001,Ramp-up,Noordzee Wind A - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2025-02-01,A001,Opex,Noordzee Wind A - Opex,-58091,Direct operating cost variance; negative values are adverse.
+2025-02-01,A001,Timing/Mix,Noordzee Wind A - Timing/Mix,-5744,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-02-01,A002,Price,Flevoland Solar B - Price,-5401,Actual realized price versus budgeted realized price.
+2025-02-01,A002,Volume,Flevoland Solar B - Volume,-8003,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-02-01,A002,Downtime,Flevoland Solar B - Downtime,-963,Estimated EBITDA impact from unplanned downtime above budget.
+2025-02-01,A002,Ramp-up,Flevoland Solar B - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2025-02-01,A002,Opex,Flevoland Solar B - Opex,-2562,Direct operating cost variance; negative values are adverse.
+2025-02-01,A002,Timing/Mix,Flevoland Solar B - Timing/Mix,-1066,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-02-01,A003,Price,Brabant Solar C - Price,723,Actual realized price versus budgeted realized price.
+2025-02-01,A003,Volume,Brabant Solar C - Volume,8251,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-02-01,A003,Downtime,Brabant Solar C - Downtime,-539,Estimated EBITDA impact from unplanned downtime above budget.
+2025-02-01,A003,Ramp-up,Brabant Solar C - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2025-02-01,A003,Opex,Brabant Solar C - Opex,-1866,Direct operating cost variance; negative values are adverse.
+2025-02-01,A003,Timing/Mix,Brabant Solar C - Timing/Mix,-753,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-02-01,A004,Price,Rotterdam Battery D - Price,-6312,Actual realized price versus budgeted realized price.
+2025-02-01,A004,Volume,Rotterdam Battery D - Volume,-25523,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-02-01,A004,Downtime,Rotterdam Battery D - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2025-02-01,A004,Ramp-up,Rotterdam Battery D - Ramp-up,-59553,Battery storage throughput reflects operational ramp-up and dispatch optimization.
+2025-02-01,A004,Opex,Rotterdam Battery D - Opex,-73521,Direct operating cost variance; negative values are adverse.
+2025-02-01,A004,Timing/Mix,Rotterdam Battery D - Timing/Mix,-2557,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-02-01,A005,Price,Groningen Hydrogen Pilot E - Price,-62,Actual realized price versus budgeted realized price.
+2025-02-01,A005,Volume,Groningen Hydrogen Pilot E - Volume,-32536,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-02-01,A005,Downtime,Groningen Hydrogen Pilot E - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2025-02-01,A005,Ramp-up,Groningen Hydrogen Pilot E - Ramp-up,-75918,Hydrogen pilot ramp-up behind budgeted production curve.
+2025-02-01,A005,Opex,Groningen Hydrogen Pilot E - Opex,-155689,Direct operating cost variance; negative values are adverse.
+2025-02-01,A005,Timing/Mix,Groningen Hydrogen Pilot E - Timing/Mix,-5689,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-03-01,A001,Price,Noordzee Wind A - Price,-289804,Actual realized price versus budgeted realized price.
+2025-03-01,A001,Volume,Noordzee Wind A - Volume,106912,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-03-01,A001,Downtime,Noordzee Wind A - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2025-03-01,A001,Ramp-up,Noordzee Wind A - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2025-03-01,A001,Opex,Noordzee Wind A - Opex,-98087,Direct operating cost variance; negative values are adverse.
+2025-03-01,A001,Timing/Mix,Noordzee Wind A - Timing/Mix,-5729,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-03-01,A002,Price,Flevoland Solar B - Price,-6430,Actual realized price versus budgeted realized price.
+2025-03-01,A002,Volume,Flevoland Solar B - Volume,1508,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-03-01,A002,Downtime,Flevoland Solar B - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2025-03-01,A002,Ramp-up,Flevoland Solar B - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2025-03-01,A002,Opex,Flevoland Solar B - Opex,-4424,Direct operating cost variance; negative values are adverse.
+2025-03-01,A002,Timing/Mix,Flevoland Solar B - Timing/Mix,-1046,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-03-01,A003,Price,Brabant Solar C - Price,-6619,Actual realized price versus budgeted realized price.
+2025-03-01,A003,Volume,Brabant Solar C - Volume,-3934,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-03-01,A003,Downtime,Brabant Solar C - Downtime,-754,Estimated EBITDA impact from unplanned downtime above budget.
+2025-03-01,A003,Ramp-up,Brabant Solar C - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2025-03-01,A003,Opex,Brabant Solar C - Opex,-2834,Direct operating cost variance; negative values are adverse.
+2025-03-01,A003,Timing/Mix,Brabant Solar C - Timing/Mix,-744,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-03-01,A004,Price,Rotterdam Battery D - Price,-27587,Actual realized price versus budgeted realized price.
+2025-03-01,A004,Volume,Rotterdam Battery D - Volume,-15722,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-03-01,A004,Downtime,Rotterdam Battery D - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2025-03-01,A004,Ramp-up,Rotterdam Battery D - Ramp-up,-36684,Battery storage throughput reflects operational ramp-up and dispatch optimization.
+2025-03-01,A004,Opex,Rotterdam Battery D - Opex,-72959,Direct operating cost variance; negative values are adverse.
+2025-03-01,A004,Timing/Mix,Rotterdam Battery D - Timing/Mix,-2651,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-03-01,A005,Price,Groningen Hydrogen Pilot E - Price,-2477,Actual realized price versus budgeted realized price.
+2025-03-01,A005,Volume,Groningen Hydrogen Pilot E - Volume,-42335,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-03-01,A005,Downtime,Groningen Hydrogen Pilot E - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2025-03-01,A005,Ramp-up,Groningen Hydrogen Pilot E - Ramp-up,-98781,Hydrogen pilot ramp-up behind budgeted production curve.
+2025-03-01,A005,Opex,Groningen Hydrogen Pilot E - Opex,-161655,Direct operating cost variance; negative values are adverse.
+2025-03-01,A005,Timing/Mix,Groningen Hydrogen Pilot E - Timing/Mix,-5707,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-04-01,A001,Price,Noordzee Wind A - Price,-248206,Actual realized price versus budgeted realized price.
+2025-04-01,A001,Volume,Noordzee Wind A - Volume,89064,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-04-01,A001,Downtime,Noordzee Wind A - Downtime,-298186,Wind availability below budget due to unplanned maintenance/outage hours.
+2025-04-01,A001,Ramp-up,Noordzee Wind A - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2025-04-01,A001,Opex,Noordzee Wind A - Opex,-296092,Direct operating cost variance; negative values are adverse.
+2025-04-01,A001,Timing/Mix,Noordzee Wind A - Timing/Mix,-6173,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-04-01,A002,Price,Flevoland Solar B - Price,-9909,Actual realized price versus budgeted realized price.
+2025-04-01,A002,Volume,Flevoland Solar B - Volume,27055,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-04-01,A002,Downtime,Flevoland Solar B - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2025-04-01,A002,Ramp-up,Flevoland Solar B - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2025-04-01,A002,Opex,Flevoland Solar B - Opex,-1837,Direct operating cost variance; negative values are adverse.
+2025-04-01,A002,Timing/Mix,Flevoland Solar B - Timing/Mix,-1045,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-04-01,A003,Price,Brabant Solar C - Price,-3274,Actual realized price versus budgeted realized price.
+2025-04-01,A003,Volume,Brabant Solar C - Volume,-4568,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-04-01,A003,Downtime,Brabant Solar C - Downtime,-925,Estimated EBITDA impact from unplanned downtime above budget.
+2025-04-01,A003,Ramp-up,Brabant Solar C - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2025-04-01,A003,Opex,Brabant Solar C - Opex,-2864,Direct operating cost variance; negative values are adverse.
+2025-04-01,A003,Timing/Mix,Brabant Solar C - Timing/Mix,-760,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-04-01,A004,Price,Rotterdam Battery D - Price,-27301,Actual realized price versus budgeted realized price.
+2025-04-01,A004,Volume,Rotterdam Battery D - Volume,-21639,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-04-01,A004,Downtime,Rotterdam Battery D - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2025-04-01,A004,Ramp-up,Rotterdam Battery D - Ramp-up,-50490,Battery storage throughput reflects operational ramp-up and dispatch optimization.
+2025-04-01,A004,Opex,Rotterdam Battery D - Opex,-73126,Direct operating cost variance; negative values are adverse.
+2025-04-01,A004,Timing/Mix,Rotterdam Battery D - Timing/Mix,-2604,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-04-01,A005,Price,Groningen Hydrogen Pilot E - Price,-2371,Actual realized price versus budgeted realized price.
+2025-04-01,A005,Volume,Groningen Hydrogen Pilot E - Volume,-40013,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-04-01,A005,Downtime,Groningen Hydrogen Pilot E - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2025-04-01,A005,Ramp-up,Groningen Hydrogen Pilot E - Ramp-up,-93363,Hydrogen pilot ramp-up behind budgeted production curve.
+2025-04-01,A005,Opex,Groningen Hydrogen Pilot E - Opex,-163364,Direct operating cost variance; negative values are adverse.
+2025-04-01,A005,Timing/Mix,Groningen Hydrogen Pilot E - Timing/Mix,-5698,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-05-01,A001,Price,Noordzee Wind A - Price,-251986,Actual realized price versus budgeted realized price.
+2025-05-01,A001,Volume,Noordzee Wind A - Volume,-98075,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-05-01,A001,Downtime,Noordzee Wind A - Downtime,-192436,Wind availability below budget due to unplanned maintenance/outage hours.
+2025-05-01,A001,Ramp-up,Noordzee Wind A - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2025-05-01,A001,Opex,Noordzee Wind A - Opex,-246925,Direct operating cost variance; negative values are adverse.
+2025-05-01,A001,Timing/Mix,Noordzee Wind A - Timing/Mix,-6156,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-05-01,A002,Price,Flevoland Solar B - Price,7991,Actual realized price versus budgeted realized price.
+2025-05-01,A002,Volume,Flevoland Solar B - Volume,26644,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-05-01,A002,Downtime,Flevoland Solar B - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2025-05-01,A002,Ramp-up,Flevoland Solar B - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2025-05-01,A002,Opex,Flevoland Solar B - Opex,-2297,Direct operating cost variance; negative values are adverse.
+2025-05-01,A002,Timing/Mix,Flevoland Solar B - Timing/Mix,-1068,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-05-01,A003,Price,Brabant Solar C - Price,-6352,Actual realized price versus budgeted realized price.
+2025-05-01,A003,Volume,Brabant Solar C - Volume,9010,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-05-01,A003,Downtime,Brabant Solar C - Downtime,-1977,Estimated EBITDA impact from unplanned downtime above budget.
+2025-05-01,A003,Ramp-up,Brabant Solar C - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2025-05-01,A003,Opex,Brabant Solar C - Opex,-2376,Direct operating cost variance; negative values are adverse.
+2025-05-01,A003,Timing/Mix,Brabant Solar C - Timing/Mix,-739,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-05-01,A004,Price,Rotterdam Battery D - Price,1676,Actual realized price versus budgeted realized price.
+2025-05-01,A004,Volume,Rotterdam Battery D - Volume,-18893,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-05-01,A004,Downtime,Rotterdam Battery D - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2025-05-01,A004,Ramp-up,Rotterdam Battery D - Ramp-up,-44084,Battery storage throughput reflects operational ramp-up and dispatch optimization.
+2025-05-01,A004,Opex,Rotterdam Battery D - Opex,-28292,Direct operating cost variance; negative values are adverse.
+2025-05-01,A004,Timing/Mix,Rotterdam Battery D - Timing/Mix,-2631,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-05-01,A005,Price,Groningen Hydrogen Pilot E - Price,-5510,Actual realized price versus budgeted realized price.
+2025-05-01,A005,Volume,Groningen Hydrogen Pilot E - Volume,-45131,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-05-01,A005,Downtime,Groningen Hydrogen Pilot E - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2025-05-01,A005,Ramp-up,Groningen Hydrogen Pilot E - Ramp-up,-105307,Hydrogen pilot ramp-up behind budgeted production curve.
+2025-05-01,A005,Opex,Groningen Hydrogen Pilot E - Opex,-167483,Direct operating cost variance; negative values are adverse.
+2025-05-01,A005,Timing/Mix,Groningen Hydrogen Pilot E - Timing/Mix,-5699,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-06-01,A001,Price,Noordzee Wind A - Price,-304636,Actual realized price versus budgeted realized price.
+2025-06-01,A001,Volume,Noordzee Wind A - Volume,-112748,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-06-01,A001,Downtime,Noordzee Wind A - Downtime,-14351,Estimated EBITDA impact from unplanned downtime above budget.
+2025-06-01,A001,Ramp-up,Noordzee Wind A - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2025-06-01,A001,Opex,Noordzee Wind A - Opex,-64874,Direct operating cost variance; negative values are adverse.
+2025-06-01,A001,Timing/Mix,Noordzee Wind A - Timing/Mix,-5973,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-06-01,A002,Price,Flevoland Solar B - Price,3979,Actual realized price versus budgeted realized price.
+2025-06-01,A002,Volume,Flevoland Solar B - Volume,41325,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-06-01,A002,Downtime,Flevoland Solar B - Downtime,-1851,Estimated EBITDA impact from unplanned downtime above budget.
+2025-06-01,A002,Ramp-up,Flevoland Solar B - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2025-06-01,A002,Opex,Flevoland Solar B - Opex,-3776,Direct operating cost variance; negative values are adverse.
+2025-06-01,A002,Timing/Mix,Flevoland Solar B - Timing/Mix,-996,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-06-01,A003,Price,Brabant Solar C - Price,-3691,Actual realized price versus budgeted realized price.
+2025-06-01,A003,Volume,Brabant Solar C - Volume,18296,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-06-01,A003,Downtime,Brabant Solar C - Downtime,-1037,Estimated EBITDA impact from unplanned downtime above budget.
+2025-06-01,A003,Ramp-up,Brabant Solar C - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2025-06-01,A003,Opex,Brabant Solar C - Opex,-1493,Direct operating cost variance; negative values are adverse.
+2025-06-01,A003,Timing/Mix,Brabant Solar C - Timing/Mix,-785,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-06-01,A004,Price,Rotterdam Battery D - Price,33125,Actual realized price versus budgeted realized price.
+2025-06-01,A004,Volume,Rotterdam Battery D - Volume,-19220,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-06-01,A004,Downtime,Rotterdam Battery D - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2025-06-01,A004,Ramp-up,Rotterdam Battery D - Ramp-up,-44847,Battery storage throughput reflects operational ramp-up and dispatch optimization.
+2025-06-01,A004,Opex,Rotterdam Battery D - Opex,-28458,Direct operating cost variance; negative values are adverse.
+2025-06-01,A004,Timing/Mix,Rotterdam Battery D - Timing/Mix,-2609,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-06-01,A005,Price,Groningen Hydrogen Pilot E - Price,-2126,Actual realized price versus budgeted realized price.
+2025-06-01,A005,Volume,Groningen Hydrogen Pilot E - Volume,-47549,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-06-01,A005,Downtime,Groningen Hydrogen Pilot E - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2025-06-01,A005,Ramp-up,Groningen Hydrogen Pilot E - Ramp-up,-110948,Hydrogen pilot ramp-up behind budgeted production curve.
+2025-06-01,A005,Opex,Groningen Hydrogen Pilot E - Opex,-169003,Direct operating cost variance; negative values are adverse.
+2025-06-01,A005,Timing/Mix,Groningen Hydrogen Pilot E - Timing/Mix,-5707,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-07-01,A001,Price,Noordzee Wind A - Price,-256046,Actual realized price versus budgeted realized price.
+2025-07-01,A001,Volume,Noordzee Wind A - Volume,81758,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-07-01,A001,Downtime,Noordzee Wind A - Downtime,-13463,Estimated EBITDA impact from unplanned downtime above budget.
+2025-07-01,A001,Ramp-up,Noordzee Wind A - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2025-07-01,A001,Opex,Noordzee Wind A - Opex,-57851,Direct operating cost variance; negative values are adverse.
+2025-07-01,A001,Timing/Mix,Noordzee Wind A - Timing/Mix,-6080,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-07-01,A002,Price,Flevoland Solar B - Price,-4051,Actual realized price versus budgeted realized price.
+2025-07-01,A002,Volume,Flevoland Solar B - Volume,-7404,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-07-01,A002,Downtime,Flevoland Solar B - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2025-07-01,A002,Ramp-up,Flevoland Solar B - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2025-07-01,A002,Opex,Flevoland Solar B - Opex,-2089,Direct operating cost variance; negative values are adverse.
+2025-07-01,A002,Timing/Mix,Flevoland Solar B - Timing/Mix,-996,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-07-01,A003,Price,Brabant Solar C - Price,-3276,Actual realized price versus budgeted realized price.
+2025-07-01,A003,Volume,Brabant Solar C - Volume,23855,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-07-01,A003,Downtime,Brabant Solar C - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2025-07-01,A003,Ramp-up,Brabant Solar C - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2025-07-01,A003,Opex,Brabant Solar C - Opex,-1340,Direct operating cost variance; negative values are adverse.
+2025-07-01,A003,Timing/Mix,Brabant Solar C - Timing/Mix,-719,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-07-01,A004,Price,Rotterdam Battery D - Price,-24742,Actual realized price versus budgeted realized price.
+2025-07-01,A004,Volume,Rotterdam Battery D - Volume,-3668,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-07-01,A004,Downtime,Rotterdam Battery D - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2025-07-01,A004,Ramp-up,Rotterdam Battery D - Ramp-up,-8558,Battery storage throughput reflects operational ramp-up and dispatch optimization.
+2025-07-01,A004,Opex,Rotterdam Battery D - Opex,-28625,Direct operating cost variance; negative values are adverse.
+2025-07-01,A004,Timing/Mix,Rotterdam Battery D - Timing/Mix,-2596,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-07-01,A005,Price,Groningen Hydrogen Pilot E - Price,2333,Actual realized price versus budgeted realized price.
+2025-07-01,A005,Volume,Groningen Hydrogen Pilot E - Volume,-48916,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-07-01,A005,Downtime,Groningen Hydrogen Pilot E - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2025-07-01,A005,Ramp-up,Groningen Hydrogen Pilot E - Ramp-up,-114137,Hydrogen pilot ramp-up behind budgeted production curve.
+2025-07-01,A005,Opex,Groningen Hydrogen Pilot E - Opex,-173311,Direct operating cost variance; negative values are adverse.
+2025-07-01,A005,Timing/Mix,Groningen Hydrogen Pilot E - Timing/Mix,-5717,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-08-01,A001,Price,Noordzee Wind A - Price,-300120,Actual realized price versus budgeted realized price.
+2025-08-01,A001,Volume,Noordzee Wind A - Volume,-42180,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-08-01,A001,Downtime,Noordzee Wind A - Downtime,-15055,Estimated EBITDA impact from unplanned downtime above budget.
+2025-08-01,A001,Ramp-up,Noordzee Wind A - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2025-08-01,A001,Opex,Noordzee Wind A - Opex,-62362,Direct operating cost variance; negative values are adverse.
+2025-08-01,A001,Timing/Mix,Noordzee Wind A - Timing/Mix,-6033,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-08-01,A002,Price,Flevoland Solar B - Price,-16519,Actual realized price versus budgeted realized price.
+2025-08-01,A002,Volume,Flevoland Solar B - Volume,-14558,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-08-01,A002,Downtime,Flevoland Solar B - Downtime,-3435,Estimated EBITDA impact from unplanned downtime above budget.
+2025-08-01,A002,Ramp-up,Flevoland Solar B - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2025-08-01,A002,Opex,Flevoland Solar B - Opex,-3044,Direct operating cost variance; negative values are adverse.
+2025-08-01,A002,Timing/Mix,Flevoland Solar B - Timing/Mix,-997,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-08-01,A003,Price,Brabant Solar C - Price,-14521,Actual realized price versus budgeted realized price.
+2025-08-01,A003,Volume,Brabant Solar C - Volume,8534,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-08-01,A003,Downtime,Brabant Solar C - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2025-08-01,A003,Ramp-up,Brabant Solar C - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2025-08-01,A003,Opex,Brabant Solar C - Opex,-2651,Direct operating cost variance; negative values are adverse.
+2025-08-01,A003,Timing/Mix,Brabant Solar C - Timing/Mix,-726,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-08-01,A004,Price,Rotterdam Battery D - Price,-31065,Actual realized price versus budgeted realized price.
+2025-08-01,A004,Volume,Rotterdam Battery D - Volume,-18322,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-08-01,A004,Downtime,Rotterdam Battery D - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2025-08-01,A004,Ramp-up,Rotterdam Battery D - Ramp-up,-42751,Battery storage throughput reflects operational ramp-up and dispatch optimization.
+2025-08-01,A004,Opex,Rotterdam Battery D - Opex,-28791,Direct operating cost variance; negative values are adverse.
+2025-08-01,A004,Timing/Mix,Rotterdam Battery D - Timing/Mix,-2637,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-08-01,A005,Price,Groningen Hydrogen Pilot E - Price,-4979,Actual realized price versus budgeted realized price.
+2025-08-01,A005,Volume,Groningen Hydrogen Pilot E - Volume,-61189,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-08-01,A005,Downtime,Groningen Hydrogen Pilot E - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2025-08-01,A005,Ramp-up,Groningen Hydrogen Pilot E - Ramp-up,-142774,Hydrogen pilot ramp-up behind budgeted production curve.
+2025-08-01,A005,Opex,Groningen Hydrogen Pilot E - Opex,-176225,Direct operating cost variance; negative values are adverse.
+2025-08-01,A005,Timing/Mix,Groningen Hydrogen Pilot E - Timing/Mix,-5694,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-09-01,A001,Price,Noordzee Wind A - Price,-259280,Actual realized price versus budgeted realized price.
+2025-09-01,A001,Volume,Noordzee Wind A - Volume,-3685,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-09-01,A001,Downtime,Noordzee Wind A - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2025-09-01,A001,Ramp-up,Noordzee Wind A - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2025-09-01,A001,Opex,Noordzee Wind A - Opex,-90913,Direct operating cost variance; negative values are adverse.
+2025-09-01,A001,Timing/Mix,Noordzee Wind A - Timing/Mix,-5870,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-09-01,A002,Price,Flevoland Solar B - Price,-6405,Actual realized price versus budgeted realized price.
+2025-09-01,A002,Volume,Flevoland Solar B - Volume,-5965,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-09-01,A002,Downtime,Flevoland Solar B - Downtime,-3107,Estimated EBITDA impact from unplanned downtime above budget.
+2025-09-01,A002,Ramp-up,Flevoland Solar B - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2025-09-01,A002,Opex,Flevoland Solar B - Opex,-3068,Direct operating cost variance; negative values are adverse.
+2025-09-01,A002,Timing/Mix,Flevoland Solar B - Timing/Mix,-1034,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-09-01,A003,Price,Brabant Solar C - Price,-4790,Actual realized price versus budgeted realized price.
+2025-09-01,A003,Volume,Brabant Solar C - Volume,125,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-09-01,A003,Downtime,Brabant Solar C - Downtime,-1740,Estimated EBITDA impact from unplanned downtime above budget.
+2025-09-01,A003,Ramp-up,Brabant Solar C - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2025-09-01,A003,Opex,Brabant Solar C - Opex,-2801,Direct operating cost variance; negative values are adverse.
+2025-09-01,A003,Timing/Mix,Brabant Solar C - Timing/Mix,-734,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-09-01,A004,Price,Rotterdam Battery D - Price,23352,Actual realized price versus budgeted realized price.
+2025-09-01,A004,Volume,Rotterdam Battery D - Volume,-4996,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-09-01,A004,Downtime,Rotterdam Battery D - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2025-09-01,A004,Ramp-up,Rotterdam Battery D - Ramp-up,-11658,Battery storage throughput reflects operational ramp-up and dispatch optimization.
+2025-09-01,A004,Opex,Rotterdam Battery D - Opex,-28958,Direct operating cost variance; negative values are adverse.
+2025-09-01,A004,Timing/Mix,Rotterdam Battery D - Timing/Mix,-2657,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-09-01,A005,Price,Groningen Hydrogen Pilot E - Price,-4169,Actual realized price versus budgeted realized price.
+2025-09-01,A005,Volume,Groningen Hydrogen Pilot E - Volume,-59242,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-09-01,A005,Downtime,Groningen Hydrogen Pilot E - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2025-09-01,A005,Ramp-up,Groningen Hydrogen Pilot E - Ramp-up,-138231,Hydrogen pilot ramp-up behind budgeted production curve.
+2025-09-01,A005,Opex,Groningen Hydrogen Pilot E - Opex,-177464,Direct operating cost variance; negative values are adverse.
+2025-09-01,A005,Timing/Mix,Groningen Hydrogen Pilot E - Timing/Mix,-5693,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-10-01,A001,Price,Noordzee Wind A - Price,-379436,Actual realized price versus budgeted realized price.
+2025-10-01,A001,Volume,Noordzee Wind A - Volume,-160859,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-10-01,A001,Downtime,Noordzee Wind A - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2025-10-01,A001,Ramp-up,Noordzee Wind A - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2025-10-01,A001,Opex,Noordzee Wind A - Opex,-62821,Direct operating cost variance; negative values are adverse.
+2025-10-01,A001,Timing/Mix,Noordzee Wind A - Timing/Mix,-6027,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-10-01,A002,Price,Flevoland Solar B - Price,-10907,Actual realized price versus budgeted realized price.
+2025-10-01,A002,Volume,Flevoland Solar B - Volume,-3127,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-10-01,A002,Downtime,Flevoland Solar B - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2025-10-01,A002,Ramp-up,Flevoland Solar B - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2025-10-01,A002,Opex,Flevoland Solar B - Opex,-4628,Direct operating cost variance; negative values are adverse.
+2025-10-01,A002,Timing/Mix,Flevoland Solar B - Timing/Mix,-1029,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-10-01,A003,Price,Brabant Solar C - Price,4761,Actual realized price versus budgeted realized price.
+2025-10-01,A003,Volume,Brabant Solar C - Volume,-7350,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-10-01,A003,Downtime,Brabant Solar C - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2025-10-01,A003,Ramp-up,Brabant Solar C - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2025-10-01,A003,Opex,Brabant Solar C - Opex,-2569,Direct operating cost variance; negative values are adverse.
+2025-10-01,A003,Timing/Mix,Brabant Solar C - Timing/Mix,-758,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-10-01,A004,Price,Rotterdam Battery D - Price,48813,Actual realized price versus budgeted realized price.
+2025-10-01,A004,Volume,Rotterdam Battery D - Volume,3071,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-10-01,A004,Downtime,Rotterdam Battery D - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2025-10-01,A004,Ramp-up,Rotterdam Battery D - Ramp-up,7167,Battery storage throughput reflects operational ramp-up and dispatch optimization.
+2025-10-01,A004,Opex,Rotterdam Battery D - Opex,-29124,Direct operating cost variance; negative values are adverse.
+2025-10-01,A004,Timing/Mix,Rotterdam Battery D - Timing/Mix,-2633,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-10-01,A005,Price,Groningen Hydrogen Pilot E - Price,-2819,Actual realized price versus budgeted realized price.
+2025-10-01,A005,Volume,Groningen Hydrogen Pilot E - Volume,-64605,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-10-01,A005,Downtime,Groningen Hydrogen Pilot E - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2025-10-01,A005,Ramp-up,Groningen Hydrogen Pilot E - Ramp-up,-150745,Hydrogen pilot ramp-up behind budgeted production curve.
+2025-10-01,A005,Opex,Groningen Hydrogen Pilot E - Opex,-182054,Direct operating cost variance; negative values are adverse.
+2025-10-01,A005,Timing/Mix,Groningen Hydrogen Pilot E - Timing/Mix,-5710,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-11-01,A001,Price,Noordzee Wind A - Price,-590639,Actual realized price versus budgeted realized price.
+2025-11-01,A001,Volume,Noordzee Wind A - Volume,-196749,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-11-01,A001,Downtime,Noordzee Wind A - Downtime,-265779,Wind availability below budget due to unplanned maintenance/outage hours.
+2025-11-01,A001,Ramp-up,Noordzee Wind A - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2025-11-01,A001,Opex,Noordzee Wind A - Opex,-224318,Direct operating cost variance; negative values are adverse.
+2025-11-01,A001,Timing/Mix,Noordzee Wind A - Timing/Mix,-6039,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-11-01,A002,Price,Flevoland Solar B - Price,516,Actual realized price versus budgeted realized price.
+2025-11-01,A002,Volume,Flevoland Solar B - Volume,-1836,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-11-01,A002,Downtime,Flevoland Solar B - Downtime,-1566,Estimated EBITDA impact from unplanned downtime above budget.
+2025-11-01,A002,Ramp-up,Flevoland Solar B - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2025-11-01,A002,Opex,Flevoland Solar B - Opex,-3706,Direct operating cost variance; negative values are adverse.
+2025-11-01,A002,Timing/Mix,Flevoland Solar B - Timing/Mix,-1058,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-11-01,A003,Price,Brabant Solar C - Price,-3421,Actual realized price versus budgeted realized price.
+2025-11-01,A003,Volume,Brabant Solar C - Volume,-3068,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-11-01,A003,Downtime,Brabant Solar C - Downtime,-877,Estimated EBITDA impact from unplanned downtime above budget.
+2025-11-01,A003,Ramp-up,Brabant Solar C - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2025-11-01,A003,Opex,Brabant Solar C - Opex,-2659,Direct operating cost variance; negative values are adverse.
+2025-11-01,A003,Timing/Mix,Brabant Solar C - Timing/Mix,-751,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-11-01,A004,Price,Rotterdam Battery D - Price,52208,Actual realized price versus budgeted realized price.
+2025-11-01,A004,Volume,Rotterdam Battery D - Volume,-3436,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-11-01,A004,Downtime,Rotterdam Battery D - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2025-11-01,A004,Ramp-up,Rotterdam Battery D - Ramp-up,-8016,Battery storage throughput reflects operational ramp-up and dispatch optimization.
+2025-11-01,A004,Opex,Rotterdam Battery D - Opex,-30018,Direct operating cost variance; negative values are adverse.
+2025-11-01,A004,Timing/Mix,Rotterdam Battery D - Timing/Mix,-2573,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-11-01,A005,Price,Groningen Hydrogen Pilot E - Price,-2817,Actual realized price versus budgeted realized price.
+2025-11-01,A005,Volume,Groningen Hydrogen Pilot E - Volume,-70018,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-11-01,A005,Downtime,Groningen Hydrogen Pilot E - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2025-11-01,A005,Ramp-up,Groningen Hydrogen Pilot E - Ramp-up,-163375,Hydrogen pilot ramp-up behind budgeted production curve.
+2025-11-01,A005,Opex,Groningen Hydrogen Pilot E - Opex,-183104,Direct operating cost variance; negative values are adverse.
+2025-11-01,A005,Timing/Mix,Groningen Hydrogen Pilot E - Timing/Mix,-5703,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-12-01,A001,Price,Noordzee Wind A - Price,-773729,Actual realized price versus budgeted realized price.
+2025-12-01,A001,Volume,Noordzee Wind A - Volume,261602,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-12-01,A001,Downtime,Noordzee Wind A - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2025-12-01,A001,Ramp-up,Noordzee Wind A - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2025-12-01,A001,Opex,Noordzee Wind A - Opex,-64715,Direct operating cost variance; negative values are adverse.
+2025-12-01,A001,Timing/Mix,Noordzee Wind A - Timing/Mix,-6300,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-12-01,A002,Price,Flevoland Solar B - Price,-6464,Actual realized price versus budgeted realized price.
+2025-12-01,A002,Volume,Flevoland Solar B - Volume,7874,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-12-01,A002,Downtime,Flevoland Solar B - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2025-12-01,A002,Ramp-up,Flevoland Solar B - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2025-12-01,A002,Opex,Flevoland Solar B - Opex,-1724,Direct operating cost variance; negative values are adverse.
+2025-12-01,A002,Timing/Mix,Flevoland Solar B - Timing/Mix,-1058,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-12-01,A003,Price,Brabant Solar C - Price,-5212,Actual realized price versus budgeted realized price.
+2025-12-01,A003,Volume,Brabant Solar C - Volume,3106,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-12-01,A003,Downtime,Brabant Solar C - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2025-12-01,A003,Ramp-up,Brabant Solar C - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2025-12-01,A003,Opex,Brabant Solar C - Opex,-959,Direct operating cost variance; negative values are adverse.
+2025-12-01,A003,Timing/Mix,Brabant Solar C - Timing/Mix,-756,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-12-01,A004,Price,Rotterdam Battery D - Price,4413,Actual realized price versus budgeted realized price.
+2025-12-01,A004,Volume,Rotterdam Battery D - Volume,296,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-12-01,A004,Downtime,Rotterdam Battery D - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2025-12-01,A004,Ramp-up,Rotterdam Battery D - Ramp-up,690,Battery storage throughput reflects operational ramp-up and dispatch optimization.
+2025-12-01,A004,Opex,Rotterdam Battery D - Opex,-30185,Direct operating cost variance; negative values are adverse.
+2025-12-01,A004,Timing/Mix,Rotterdam Battery D - Timing/Mix,-2672,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2025-12-01,A005,Price,Groningen Hydrogen Pilot E - Price,32,Actual realized price versus budgeted realized price.
+2025-12-01,A005,Volume,Groningen Hydrogen Pilot E - Volume,-74043,Production or throughput variance not separately attributed to downtime or ramp-up.
+2025-12-01,A005,Downtime,Groningen Hydrogen Pilot E - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2025-12-01,A005,Ramp-up,Groningen Hydrogen Pilot E - Ramp-up,-172766,Hydrogen pilot ramp-up behind budgeted production curve.
+2025-12-01,A005,Opex,Groningen Hydrogen Pilot E - Opex,-187882,Direct operating cost variance; negative values are adverse.
+2025-12-01,A005,Timing/Mix,Groningen Hydrogen Pilot E - Timing/Mix,-5703,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-01-01,A001,Price,Noordzee Wind A - Price,-221791,Actual realized price versus budgeted realized price.
+2026-01-01,A001,Volume,Noordzee Wind A - Volume,-90391,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-01-01,A001,Downtime,Noordzee Wind A - Downtime,-31596,Estimated EBITDA impact from unplanned downtime above budget.
+2026-01-01,A001,Ramp-up,Noordzee Wind A - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2026-01-01,A001,Opex,Noordzee Wind A - Opex,-70881,Direct operating cost variance; negative values are adverse.
+2026-01-01,A001,Timing/Mix,Noordzee Wind A - Timing/Mix,-6251,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-01-01,A002,Price,Flevoland Solar B - Price,4263,Actual realized price versus budgeted realized price.
+2026-01-01,A002,Volume,Flevoland Solar B - Volume,14392,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-01-01,A002,Downtime,Flevoland Solar B - Downtime,-670,Estimated EBITDA impact from unplanned downtime above budget.
+2026-01-01,A002,Ramp-up,Flevoland Solar B - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2026-01-01,A002,Opex,Flevoland Solar B - Opex,-1392,Direct operating cost variance; negative values are adverse.
+2026-01-01,A002,Timing/Mix,Flevoland Solar B - Timing/Mix,-1057,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-01-01,A003,Price,Brabant Solar C - Price,-3700,Actual realized price versus budgeted realized price.
+2026-01-01,A003,Volume,Brabant Solar C - Volume,-3862,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-01-01,A003,Downtime,Brabant Solar C - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2026-01-01,A003,Ramp-up,Brabant Solar C - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2026-01-01,A003,Opex,Brabant Solar C - Opex,-1309,Direct operating cost variance; negative values are adverse.
+2026-01-01,A003,Timing/Mix,Brabant Solar C - Timing/Mix,-748,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-01-01,A004,Price,Rotterdam Battery D - Price,87731,Actual realized price versus budgeted realized price.
+2026-01-01,A004,Volume,Rotterdam Battery D - Volume,13135,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-01-01,A004,Downtime,Rotterdam Battery D - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2026-01-01,A004,Ramp-up,Rotterdam Battery D - Ramp-up,30648,Battery storage throughput reflects operational ramp-up and dispatch optimization.
+2026-01-01,A004,Opex,Rotterdam Battery D - Opex,-18211,Direct operating cost variance; negative values are adverse.
+2026-01-01,A004,Timing/Mix,Rotterdam Battery D - Timing/Mix,-2513,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-01-01,A005,Price,Groningen Hydrogen Pilot E - Price,-4817,Actual realized price versus budgeted realized price.
+2026-01-01,A005,Volume,Groningen Hydrogen Pilot E - Volume,-45836,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-01-01,A005,Downtime,Groningen Hydrogen Pilot E - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2026-01-01,A005,Ramp-up,Groningen Hydrogen Pilot E - Ramp-up,-106950,Hydrogen pilot ramp-up behind budgeted production curve.
+2026-01-01,A005,Opex,Groningen Hydrogen Pilot E - Opex,-149922,Direct operating cost variance; negative values are adverse.
+2026-01-01,A005,Timing/Mix,Groningen Hydrogen Pilot E - Timing/Mix,-5703,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-02-01,A001,Price,Noordzee Wind A - Price,-214075,Actual realized price versus budgeted realized price.
+2026-02-01,A001,Volume,Noordzee Wind A - Volume,52058,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-02-01,A001,Downtime,Noordzee Wind A - Downtime,-198705,Wind availability below budget due to unplanned maintenance/outage hours.
+2026-02-01,A001,Ramp-up,Noordzee Wind A - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2026-02-01,A001,Opex,Noordzee Wind A - Opex,-218415,Direct operating cost variance; negative values are adverse.
+2026-02-01,A001,Timing/Mix,Noordzee Wind A - Timing/Mix,-6259,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-02-01,A002,Price,Flevoland Solar B - Price,-10494,Actual realized price versus budgeted realized price.
+2026-02-01,A002,Volume,Flevoland Solar B - Volume,18269,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-02-01,A002,Downtime,Flevoland Solar B - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2026-02-01,A002,Ramp-up,Flevoland Solar B - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2026-02-01,A002,Opex,Flevoland Solar B - Opex,-1775,Direct operating cost variance; negative values are adverse.
+2026-02-01,A002,Timing/Mix,Flevoland Solar B - Timing/Mix,-1047,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-02-01,A003,Price,Brabant Solar C - Price,-644,Actual realized price versus budgeted realized price.
+2026-02-01,A003,Volume,Brabant Solar C - Volume,-1351,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-02-01,A003,Downtime,Brabant Solar C - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2026-02-01,A003,Ramp-up,Brabant Solar C - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2026-02-01,A003,Opex,Brabant Solar C - Opex,-2215,Direct operating cost variance; negative values are adverse.
+2026-02-01,A003,Timing/Mix,Brabant Solar C - Timing/Mix,-744,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-02-01,A004,Price,Rotterdam Battery D - Price,7317,Actual realized price versus budgeted realized price.
+2026-02-01,A004,Volume,Rotterdam Battery D - Volume,9288,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-02-01,A004,Downtime,Rotterdam Battery D - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2026-02-01,A004,Ramp-up,Rotterdam Battery D - Ramp-up,21671,Battery storage throughput reflects operational ramp-up and dispatch optimization.
+2026-02-01,A004,Opex,Rotterdam Battery D - Opex,-18311,Direct operating cost variance; negative values are adverse.
+2026-02-01,A004,Timing/Mix,Rotterdam Battery D - Timing/Mix,-2559,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-02-01,A005,Price,Groningen Hydrogen Pilot E - Price,3181,Actual realized price versus budgeted realized price.
+2026-02-01,A005,Volume,Groningen Hydrogen Pilot E - Volume,-43832,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-02-01,A005,Downtime,Groningen Hydrogen Pilot E - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2026-02-01,A005,Ramp-up,Groningen Hydrogen Pilot E - Ramp-up,-102275,Hydrogen pilot ramp-up behind budgeted production curve.
+2026-02-01,A005,Opex,Groningen Hydrogen Pilot E - Opex,-147500,Direct operating cost variance; negative values are adverse.
+2026-02-01,A005,Timing/Mix,Groningen Hydrogen Pilot E - Timing/Mix,-5705,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-03-01,A001,Price,Noordzee Wind A - Price,-130852,Actual realized price versus budgeted realized price.
+2026-03-01,A001,Volume,Noordzee Wind A - Volume,38856,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-03-01,A001,Downtime,Noordzee Wind A - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2026-03-01,A001,Ramp-up,Noordzee Wind A - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2026-03-01,A001,Opex,Noordzee Wind A - Opex,-52755,Direct operating cost variance; negative values are adverse.
+2026-03-01,A001,Timing/Mix,Noordzee Wind A - Timing/Mix,-5786,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-03-01,A002,Price,Flevoland Solar B - Price,-902,Actual realized price versus budgeted realized price.
+2026-03-01,A002,Volume,Flevoland Solar B - Volume,20159,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-03-01,A002,Downtime,Flevoland Solar B - Downtime,-1290,Estimated EBITDA impact from unplanned downtime above budget.
+2026-03-01,A002,Ramp-up,Flevoland Solar B - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2026-03-01,A002,Opex,Flevoland Solar B - Opex,-2427,Direct operating cost variance; negative values are adverse.
+2026-03-01,A002,Timing/Mix,Flevoland Solar B - Timing/Mix,-1035,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-03-01,A003,Price,Brabant Solar C - Price,-9077,Actual realized price versus budgeted realized price.
+2026-03-01,A003,Volume,Brabant Solar C - Volume,5636,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-03-01,A003,Downtime,Brabant Solar C - Downtime,-1445,Estimated EBITDA impact from unplanned downtime above budget.
+2026-03-01,A003,Ramp-up,Brabant Solar C - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2026-03-01,A003,Opex,Brabant Solar C - Opex,-2852,Direct operating cost variance; negative values are adverse.
+2026-03-01,A003,Timing/Mix,Brabant Solar C - Timing/Mix,-760,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-03-01,A004,Price,Rotterdam Battery D - Price,-16026,Actual realized price versus budgeted realized price.
+2026-03-01,A004,Volume,Rotterdam Battery D - Volume,-2405,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-03-01,A004,Downtime,Rotterdam Battery D - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2026-03-01,A004,Ramp-up,Rotterdam Battery D - Ramp-up,-5613,Battery storage throughput reflects operational ramp-up and dispatch optimization.
+2026-03-01,A004,Opex,Rotterdam Battery D - Opex,-17974,Direct operating cost variance; negative values are adverse.
+2026-03-01,A004,Timing/Mix,Rotterdam Battery D - Timing/Mix,-2545,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-03-01,A005,Price,Groningen Hydrogen Pilot E - Price,-11154,Actual realized price versus budgeted realized price.
+2026-03-01,A005,Volume,Groningen Hydrogen Pilot E - Volume,-44590,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-03-01,A005,Downtime,Groningen Hydrogen Pilot E - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2026-03-01,A005,Ramp-up,Groningen Hydrogen Pilot E - Ramp-up,-104043,Hydrogen pilot ramp-up behind budgeted production curve.
+2026-03-01,A005,Opex,Groningen Hydrogen Pilot E - Opex,-153929,Direct operating cost variance; negative values are adverse.
+2026-03-01,A005,Timing/Mix,Groningen Hydrogen Pilot E - Timing/Mix,-5697,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-04-01,A001,Price,Noordzee Wind A - Price,-80363,Actual realized price versus budgeted realized price.
+2026-04-01,A001,Volume,Noordzee Wind A - Volume,-84636,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-04-01,A001,Downtime,Noordzee Wind A - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2026-04-01,A001,Ramp-up,Noordzee Wind A - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2026-04-01,A001,Opex,Noordzee Wind A - Opex,-97785,Direct operating cost variance; negative values are adverse.
+2026-04-01,A001,Timing/Mix,Noordzee Wind A - Timing/Mix,-5809,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-04-01,A002,Price,Flevoland Solar B - Price,-16451,Actual realized price versus budgeted realized price.
+2026-04-01,A002,Volume,Flevoland Solar B - Volume,31275,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-04-01,A002,Downtime,Flevoland Solar B - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2026-04-01,A002,Ramp-up,Flevoland Solar B - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2026-04-01,A002,Opex,Flevoland Solar B - Opex,-2511,Direct operating cost variance; negative values are adverse.
+2026-04-01,A002,Timing/Mix,Flevoland Solar B - Timing/Mix,-1066,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-04-01,A003,Price,Brabant Solar C - Price,1682,Actual realized price versus budgeted realized price.
+2026-04-01,A003,Volume,Brabant Solar C - Volume,19783,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-04-01,A003,Downtime,Brabant Solar C - Downtime,-1772,Estimated EBITDA impact from unplanned downtime above budget.
+2026-04-01,A003,Ramp-up,Brabant Solar C - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2026-04-01,A003,Opex,Brabant Solar C - Opex,-2953,Direct operating cost variance; negative values are adverse.
+2026-04-01,A003,Timing/Mix,Brabant Solar C - Timing/Mix,-755,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-04-01,A004,Price,Rotterdam Battery D - Price,84709,Actual realized price versus budgeted realized price.
+2026-04-01,A004,Volume,Rotterdam Battery D - Volume,16859,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-04-01,A004,Downtime,Rotterdam Battery D - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2026-04-01,A004,Ramp-up,Rotterdam Battery D - Ramp-up,39338,Battery storage throughput reflects operational ramp-up and dispatch optimization.
+2026-04-01,A004,Opex,Rotterdam Battery D - Opex,-18073,Direct operating cost variance; negative values are adverse.
+2026-04-01,A004,Timing/Mix,Rotterdam Battery D - Timing/Mix,-2658,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-04-01,A005,Price,Groningen Hydrogen Pilot E - Price,-14143,Actual realized price versus budgeted realized price.
+2026-04-01,A005,Volume,Groningen Hydrogen Pilot E - Volume,-39446,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-04-01,A005,Downtime,Groningen Hydrogen Pilot E - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2026-04-01,A005,Ramp-up,Groningen Hydrogen Pilot E - Ramp-up,-92041,Hydrogen pilot ramp-up behind budgeted production curve.
+2026-04-01,A005,Opex,Groningen Hydrogen Pilot E - Opex,-154328,Direct operating cost variance; negative values are adverse.
+2026-04-01,A005,Timing/Mix,Groningen Hydrogen Pilot E - Timing/Mix,-5692,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-05-01,A001,Price,Noordzee Wind A - Price,-171599,Actual realized price versus budgeted realized price.
+2026-05-01,A001,Volume,Noordzee Wind A - Volume,74460,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-05-01,A001,Downtime,Noordzee Wind A - Downtime,-32204,Estimated EBITDA impact from unplanned downtime above budget.
+2026-05-01,A001,Ramp-up,Noordzee Wind A - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2026-05-01,A001,Opex,Noordzee Wind A - Opex,-85597,Direct operating cost variance; negative values are adverse.
+2026-05-01,A001,Timing/Mix,Noordzee Wind A - Timing/Mix,-6166,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-05-01,A002,Price,Flevoland Solar B - Price,1307,Actual realized price versus budgeted realized price.
+2026-05-01,A002,Volume,Flevoland Solar B - Volume,-11933,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-05-01,A002,Downtime,Flevoland Solar B - Downtime,-1685,Estimated EBITDA impact from unplanned downtime above budget.
+2026-05-01,A002,Ramp-up,Flevoland Solar B - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2026-05-01,A002,Opex,Flevoland Solar B - Opex,-3197,Direct operating cost variance; negative values are adverse.
+2026-05-01,A002,Timing/Mix,Flevoland Solar B - Timing/Mix,-1083,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-05-01,A003,Price,Brabant Solar C - Price,3121,Actual realized price versus budgeted realized price.
+2026-05-01,A003,Volume,Brabant Solar C - Volume,-4460,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-05-01,A003,Downtime,Brabant Solar C - Downtime,-1887,Estimated EBITDA impact from unplanned downtime above budget.
+2026-05-01,A003,Ramp-up,Brabant Solar C - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2026-05-01,A003,Opex,Brabant Solar C - Opex,-2063,Direct operating cost variance; negative values are adverse.
+2026-05-01,A003,Timing/Mix,Brabant Solar C - Timing/Mix,-769,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-05-01,A004,Price,Rotterdam Battery D - Price,17791,Actual realized price versus budgeted realized price.
+2026-05-01,A004,Volume,Rotterdam Battery D - Volume,40637,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-05-01,A004,Downtime,Rotterdam Battery D - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2026-05-01,A004,Ramp-up,Rotterdam Battery D - Ramp-up,94819,Battery storage throughput reflects operational ramp-up and dispatch optimization.
+2026-05-01,A004,Opex,Rotterdam Battery D - Opex,-18173,Direct operating cost variance; negative values are adverse.
+2026-05-01,A004,Timing/Mix,Rotterdam Battery D - Timing/Mix,-2632,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-05-01,A005,Price,Groningen Hydrogen Pilot E - Price,-6774,Actual realized price versus budgeted realized price.
+2026-05-01,A005,Volume,Groningen Hydrogen Pilot E - Volume,-46795,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-05-01,A005,Downtime,Groningen Hydrogen Pilot E - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2026-05-01,A005,Ramp-up,Groningen Hydrogen Pilot E - Ramp-up,-109189,Hydrogen pilot ramp-up behind budgeted production curve.
+2026-05-01,A005,Opex,Groningen Hydrogen Pilot E - Opex,-157936,Direct operating cost variance; negative values are adverse.
+2026-05-01,A005,Timing/Mix,Groningen Hydrogen Pilot E - Timing/Mix,-5727,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-06-01,A001,Price,Noordzee Wind A - Price,-244193,Actual realized price versus budgeted realized price.
+2026-06-01,A001,Volume,Noordzee Wind A - Volume,103645,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-06-01,A001,Downtime,Noordzee Wind A - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2026-06-01,A001,Ramp-up,Noordzee Wind A - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2026-06-01,A001,Opex,Noordzee Wind A - Opex,-73872,Direct operating cost variance; negative values are adverse.
+2026-06-01,A001,Timing/Mix,Noordzee Wind A - Timing/Mix,-5825,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-06-01,A002,Price,Flevoland Solar B - Price,6970,Actual realized price versus budgeted realized price.
+2026-06-01,A002,Volume,Flevoland Solar B - Volume,20830,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-06-01,A002,Downtime,Flevoland Solar B - Downtime,-3533,Estimated EBITDA impact from unplanned downtime above budget.
+2026-06-01,A002,Ramp-up,Flevoland Solar B - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2026-06-01,A002,Opex,Flevoland Solar B - Opex,-3068,Direct operating cost variance; negative values are adverse.
+2026-06-01,A002,Timing/Mix,Flevoland Solar B - Timing/Mix,-1087,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-06-01,A003,Price,Brabant Solar C - Price,6185,Actual realized price versus budgeted realized price.
+2026-06-01,A003,Volume,Brabant Solar C - Volume,-6090,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-06-01,A003,Downtime,Brabant Solar C - Downtime,-989,Estimated EBITDA impact from unplanned downtime above budget.
+2026-06-01,A003,Ramp-up,Brabant Solar C - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2026-06-01,A003,Opex,Brabant Solar C - Opex,-1650,Direct operating cost variance; negative values are adverse.
+2026-06-01,A003,Timing/Mix,Brabant Solar C - Timing/Mix,-739,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-06-01,A004,Price,Rotterdam Battery D - Price,95756,Actual realized price versus budgeted realized price.
+2026-06-01,A004,Volume,Rotterdam Battery D - Volume,33128,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-06-01,A004,Downtime,Rotterdam Battery D - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2026-06-01,A004,Ramp-up,Rotterdam Battery D - Ramp-up,77298,Battery storage throughput reflects operational ramp-up and dispatch optimization.
+2026-06-01,A004,Opex,Rotterdam Battery D - Opex,-18273,Direct operating cost variance; negative values are adverse.
+2026-06-01,A004,Timing/Mix,Rotterdam Battery D - Timing/Mix,-2523,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-06-01,A005,Price,Groningen Hydrogen Pilot E - Price,5674,Actual realized price versus budgeted realized price.
+2026-06-01,A005,Volume,Groningen Hydrogen Pilot E - Volume,-51500,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-06-01,A005,Downtime,Groningen Hydrogen Pilot E - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2026-06-01,A005,Ramp-up,Groningen Hydrogen Pilot E - Ramp-up,-120166,Hydrogen pilot ramp-up behind budgeted production curve.
+2026-06-01,A005,Opex,Groningen Hydrogen Pilot E - Opex,-158206,Direct operating cost variance; negative values are adverse.
+2026-06-01,A005,Timing/Mix,Groningen Hydrogen Pilot E - Timing/Mix,-5678,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-07-01,A001,Price,Noordzee Wind A - Price,-246486,Actual realized price versus budgeted realized price.
+2026-07-01,A001,Volume,Noordzee Wind A - Volume,83107,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-07-01,A001,Downtime,Noordzee Wind A - Downtime,-25914,Estimated EBITDA impact from unplanned downtime above budget.
+2026-07-01,A001,Ramp-up,Noordzee Wind A - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2026-07-01,A001,Opex,Noordzee Wind A - Opex,-45245,Direct operating cost variance; negative values are adverse.
+2026-07-01,A001,Timing/Mix,Noordzee Wind A - Timing/Mix,-6134,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-07-01,A002,Price,Flevoland Solar B - Price,9707,Actual realized price versus budgeted realized price.
+2026-07-01,A002,Volume,Flevoland Solar B - Volume,-22428,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-07-01,A002,Downtime,Flevoland Solar B - Downtime,-3479,Estimated EBITDA impact from unplanned downtime above budget.
+2026-07-01,A002,Ramp-up,Flevoland Solar B - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2026-07-01,A002,Opex,Flevoland Solar B - Opex,-3964,Direct operating cost variance; negative values are adverse.
+2026-07-01,A002,Timing/Mix,Flevoland Solar B - Timing/Mix,-1106,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-07-01,A003,Price,Brabant Solar C - Price,-12992,Actual realized price versus budgeted realized price.
+2026-07-01,A003,Volume,Brabant Solar C - Volume,516,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-07-01,A003,Downtime,Brabant Solar C - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2026-07-01,A003,Ramp-up,Brabant Solar C - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2026-07-01,A003,Opex,Brabant Solar C - Opex,-2632,Direct operating cost variance; negative values are adverse.
+2026-07-01,A003,Timing/Mix,Brabant Solar C - Timing/Mix,-751,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-07-01,A004,Price,Rotterdam Battery D - Price,121732,Actual realized price versus budgeted realized price.
+2026-07-01,A004,Volume,Rotterdam Battery D - Volume,33183,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-07-01,A004,Downtime,Rotterdam Battery D - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2026-07-01,A004,Ramp-up,Rotterdam Battery D - Ramp-up,77428,Battery storage throughput reflects operational ramp-up and dispatch optimization.
+2026-07-01,A004,Opex,Rotterdam Battery D - Opex,-18373,Direct operating cost variance; negative values are adverse.
+2026-07-01,A004,Timing/Mix,Rotterdam Battery D - Timing/Mix,-2646,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-07-01,A005,Price,Groningen Hydrogen Pilot E - Price,-1218,Actual realized price versus budgeted realized price.
+2026-07-01,A005,Volume,Groningen Hydrogen Pilot E - Volume,-33641,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-07-01,A005,Downtime,Groningen Hydrogen Pilot E - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2026-07-01,A005,Ramp-up,Groningen Hydrogen Pilot E - Ramp-up,-78495,Hydrogen pilot ramp-up behind budgeted production curve.
+2026-07-01,A005,Opex,Groningen Hydrogen Pilot E - Opex,-161943,Direct operating cost variance; negative values are adverse.
+2026-07-01,A005,Timing/Mix,Groningen Hydrogen Pilot E - Timing/Mix,-5679,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-08-01,A001,Price,Noordzee Wind A - Price,-207081,Actual realized price versus budgeted realized price.
+2026-08-01,A001,Volume,Noordzee Wind A - Volume,39002,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-08-01,A001,Downtime,Noordzee Wind A - Downtime,-28977,Estimated EBITDA impact from unplanned downtime above budget.
+2026-08-01,A001,Ramp-up,Noordzee Wind A - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2026-08-01,A001,Opex,Noordzee Wind A - Opex,-53470,Direct operating cost variance; negative values are adverse.
+2026-08-01,A001,Timing/Mix,Noordzee Wind A - Timing/Mix,-5827,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-08-01,A002,Price,Flevoland Solar B - Price,8906,Actual realized price versus budgeted realized price.
+2026-08-01,A002,Volume,Flevoland Solar B - Volume,19839,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-08-01,A002,Downtime,Flevoland Solar B - Downtime,-3278,Estimated EBITDA impact from unplanned downtime above budget.
+2026-08-01,A002,Ramp-up,Flevoland Solar B - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2026-08-01,A002,Opex,Flevoland Solar B - Opex,-4138,Direct operating cost variance; negative values are adverse.
+2026-08-01,A002,Timing/Mix,Flevoland Solar B - Timing/Mix,-1083,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-08-01,A003,Price,Brabant Solar C - Price,-9284,Actual realized price versus budgeted realized price.
+2026-08-01,A003,Volume,Brabant Solar C - Volume,-1571,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-08-01,A003,Downtime,Brabant Solar C - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2026-08-01,A003,Ramp-up,Brabant Solar C - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2026-08-01,A003,Opex,Brabant Solar C - Opex,-2832,Direct operating cost variance; negative values are adverse.
+2026-08-01,A003,Timing/Mix,Brabant Solar C - Timing/Mix,-777,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-08-01,A004,Price,Rotterdam Battery D - Price,69121,Actual realized price versus budgeted realized price.
+2026-08-01,A004,Volume,Rotterdam Battery D - Volume,37801,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-08-01,A004,Downtime,Rotterdam Battery D - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2026-08-01,A004,Ramp-up,Rotterdam Battery D - Ramp-up,88202,Battery storage throughput reflects operational ramp-up and dispatch optimization.
+2026-08-01,A004,Opex,Rotterdam Battery D - Opex,-18473,Direct operating cost variance; negative values are adverse.
+2026-08-01,A004,Timing/Mix,Rotterdam Battery D - Timing/Mix,-2603,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-08-01,A005,Price,Groningen Hydrogen Pilot E - Price,2082,Actual realized price versus budgeted realized price.
+2026-08-01,A005,Volume,Groningen Hydrogen Pilot E - Volume,-34752,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-08-01,A005,Downtime,Groningen Hydrogen Pilot E - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2026-08-01,A005,Ramp-up,Groningen Hydrogen Pilot E - Ramp-up,-81088,Hydrogen pilot ramp-up behind budgeted production curve.
+2026-08-01,A005,Opex,Groningen Hydrogen Pilot E - Opex,-163947,Direct operating cost variance; negative values are adverse.
+2026-08-01,A005,Timing/Mix,Groningen Hydrogen Pilot E - Timing/Mix,-5712,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-09-01,A001,Price,Noordzee Wind A - Price,-125199,Actual realized price versus budgeted realized price.
+2026-09-01,A001,Volume,Noordzee Wind A - Volume,-87697,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-09-01,A001,Downtime,Noordzee Wind A - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2026-09-01,A001,Ramp-up,Noordzee Wind A - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2026-09-01,A001,Opex,Noordzee Wind A - Opex,-77492,Direct operating cost variance; negative values are adverse.
+2026-09-01,A001,Timing/Mix,Noordzee Wind A - Timing/Mix,-6189,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-09-01,A002,Price,Flevoland Solar B - Price,2883,Actual realized price versus budgeted realized price.
+2026-09-01,A002,Volume,Flevoland Solar B - Volume,25096,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-09-01,A002,Downtime,Flevoland Solar B - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2026-09-01,A002,Ramp-up,Flevoland Solar B - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2026-09-01,A002,Opex,Flevoland Solar B - Opex,-4038,Direct operating cost variance; negative values are adverse.
+2026-09-01,A002,Timing/Mix,Flevoland Solar B - Timing/Mix,-1086,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-09-01,A003,Price,Brabant Solar C - Price,-10945,Actual realized price versus budgeted realized price.
+2026-09-01,A003,Volume,Brabant Solar C - Volume,-6080,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-09-01,A003,Downtime,Brabant Solar C - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2026-09-01,A003,Ramp-up,Brabant Solar C - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2026-09-01,A003,Opex,Brabant Solar C - Opex,-3060,Direct operating cost variance; negative values are adverse.
+2026-09-01,A003,Timing/Mix,Brabant Solar C - Timing/Mix,-750,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-09-01,A004,Price,Rotterdam Battery D - Price,84883,Actual realized price versus budgeted realized price.
+2026-09-01,A004,Volume,Rotterdam Battery D - Volume,59358,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-09-01,A004,Downtime,Rotterdam Battery D - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2026-09-01,A004,Ramp-up,Rotterdam Battery D - Ramp-up,138502,Battery storage throughput reflects operational ramp-up and dispatch optimization.
+2026-09-01,A004,Opex,Rotterdam Battery D - Opex,-18573,Direct operating cost variance; negative values are adverse.
+2026-09-01,A004,Timing/Mix,Rotterdam Battery D - Timing/Mix,-2670,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-09-01,A005,Price,Groningen Hydrogen Pilot E - Price,-8787,Actual realized price versus budgeted realized price.
+2026-09-01,A005,Volume,Groningen Hydrogen Pilot E - Volume,-29732,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-09-01,A005,Downtime,Groningen Hydrogen Pilot E - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2026-09-01,A005,Ramp-up,Groningen Hydrogen Pilot E - Ramp-up,-69376,Hydrogen pilot ramp-up behind budgeted production curve.
+2026-09-01,A005,Opex,Groningen Hydrogen Pilot E - Opex,-164022,Direct operating cost variance; negative values are adverse.
+2026-09-01,A005,Timing/Mix,Groningen Hydrogen Pilot E - Timing/Mix,-5729,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-10-01,A001,Price,Noordzee Wind A - Price,-150769,Actual realized price versus budgeted realized price.
+2026-10-01,A001,Volume,Noordzee Wind A - Volume,-171991,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-10-01,A001,Downtime,Noordzee Wind A - Downtime,-127667,Wind availability below budget due to unplanned maintenance/outage hours.
+2026-10-01,A001,Ramp-up,Noordzee Wind A - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2026-10-01,A001,Opex,Noordzee Wind A - Opex,-200666,Direct operating cost variance; negative values are adverse.
+2026-10-01,A001,Timing/Mix,Noordzee Wind A - Timing/Mix,-5993,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-10-01,A002,Price,Flevoland Solar B - Price,-11761,Actual realized price versus budgeted realized price.
+2026-10-01,A002,Volume,Flevoland Solar B - Volume,17999,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-10-01,A002,Downtime,Flevoland Solar B - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2026-10-01,A002,Ramp-up,Flevoland Solar B - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2026-10-01,A002,Opex,Flevoland Solar B - Opex,-4221,Direct operating cost variance; negative values are adverse.
+2026-10-01,A002,Timing/Mix,Flevoland Solar B - Timing/Mix,-1062,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-10-01,A003,Price,Brabant Solar C - Price,-5683,Actual realized price versus budgeted realized price.
+2026-10-01,A003,Volume,Brabant Solar C - Volume,-7016,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-10-01,A003,Downtime,Brabant Solar C - Downtime,-1265,Estimated EBITDA impact from unplanned downtime above budget.
+2026-10-01,A003,Ramp-up,Brabant Solar C - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2026-10-01,A003,Opex,Brabant Solar C - Opex,-2594,Direct operating cost variance; negative values are adverse.
+2026-10-01,A003,Timing/Mix,Brabant Solar C - Timing/Mix,-752,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-10-01,A004,Price,Rotterdam Battery D - Price,133632,Actual realized price versus budgeted realized price.
+2026-10-01,A004,Volume,Rotterdam Battery D - Volume,66154,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-10-01,A004,Downtime,Rotterdam Battery D - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2026-10-01,A004,Ramp-up,Rotterdam Battery D - Ramp-up,154360,Battery storage throughput reflects operational ramp-up and dispatch optimization.
+2026-10-01,A004,Opex,Rotterdam Battery D - Opex,-18672,Direct operating cost variance; negative values are adverse.
+2026-10-01,A004,Timing/Mix,Rotterdam Battery D - Timing/Mix,-2688,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-10-01,A005,Price,Groningen Hydrogen Pilot E - Price,5162,Actual realized price versus budgeted realized price.
+2026-10-01,A005,Volume,Groningen Hydrogen Pilot E - Volume,-25704,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-10-01,A005,Downtime,Groningen Hydrogen Pilot E - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2026-10-01,A005,Ramp-up,Groningen Hydrogen Pilot E - Ramp-up,-59976,Hydrogen pilot ramp-up behind budgeted production curve.
+2026-10-01,A005,Opex,Groningen Hydrogen Pilot E - Opex,-167953,Direct operating cost variance; negative values are adverse.
+2026-10-01,A005,Timing/Mix,Groningen Hydrogen Pilot E - Timing/Mix,-5691,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-11-01,A001,Price,Noordzee Wind A - Price,-176752,Actual realized price versus budgeted realized price.
+2026-11-01,A001,Volume,Noordzee Wind A - Volume,175049,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-11-01,A001,Downtime,Noordzee Wind A - Downtime,-56807,Wind availability below budget due to unplanned maintenance/outage hours.
+2026-11-01,A001,Ramp-up,Noordzee Wind A - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2026-11-01,A001,Opex,Noordzee Wind A - Opex,-77892,Direct operating cost variance; negative values are adverse.
+2026-11-01,A001,Timing/Mix,Noordzee Wind A - Timing/Mix,-6035,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-11-01,A002,Price,Flevoland Solar B - Price,2925,Actual realized price versus budgeted realized price.
+2026-11-01,A002,Volume,Flevoland Solar B - Volume,10821,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-11-01,A002,Downtime,Flevoland Solar B - Downtime,-751,Estimated EBITDA impact from unplanned downtime above budget.
+2026-11-01,A002,Ramp-up,Flevoland Solar B - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2026-11-01,A002,Opex,Flevoland Solar B - Opex,-2263,Direct operating cost variance; negative values are adverse.
+2026-11-01,A002,Timing/Mix,Flevoland Solar B - Timing/Mix,-1060,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-11-01,A003,Price,Brabant Solar C - Price,-3645,Actual realized price versus budgeted realized price.
+2026-11-01,A003,Volume,Brabant Solar C - Volume,4156,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-11-01,A003,Downtime,Brabant Solar C - Downtime,-841,Estimated EBITDA impact from unplanned downtime above budget.
+2026-11-01,A003,Ramp-up,Brabant Solar C - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2026-11-01,A003,Opex,Brabant Solar C - Opex,-969,Direct operating cost variance; negative values are adverse.
+2026-11-01,A003,Timing/Mix,Brabant Solar C - Timing/Mix,-741,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-11-01,A004,Price,Rotterdam Battery D - Price,89065,Actual realized price versus budgeted realized price.
+2026-11-01,A004,Volume,Rotterdam Battery D - Volume,59469,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-11-01,A004,Downtime,Rotterdam Battery D - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2026-11-01,A004,Ramp-up,Rotterdam Battery D - Ramp-up,138762,Battery storage throughput reflects operational ramp-up and dispatch optimization.
+2026-11-01,A004,Opex,Rotterdam Battery D - Opex,-19209,Direct operating cost variance; negative values are adverse.
+2026-11-01,A004,Timing/Mix,Rotterdam Battery D - Timing/Mix,-2561,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-11-01,A005,Price,Groningen Hydrogen Pilot E - Price,-12845,Actual realized price versus budgeted realized price.
+2026-11-01,A005,Volume,Groningen Hydrogen Pilot E - Volume,-46770,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-11-01,A005,Downtime,Groningen Hydrogen Pilot E - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2026-11-01,A005,Ramp-up,Groningen Hydrogen Pilot E - Ramp-up,-109131,Hydrogen pilot ramp-up behind budgeted production curve.
+2026-11-01,A005,Opex,Groningen Hydrogen Pilot E - Opex,-167786,Direct operating cost variance; negative values are adverse.
+2026-11-01,A005,Timing/Mix,Groningen Hydrogen Pilot E - Timing/Mix,-5733,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-12-01,A001,Price,Noordzee Wind A - Price,-327444,Actual realized price versus budgeted realized price.
+2026-12-01,A001,Volume,Noordzee Wind A - Volume,-297506,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-12-01,A001,Downtime,Noordzee Wind A - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2026-12-01,A001,Ramp-up,Noordzee Wind A - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2026-12-01,A001,Opex,Noordzee Wind A - Opex,-85979,Direct operating cost variance; negative values are adverse.
+2026-12-01,A001,Timing/Mix,Noordzee Wind A - Timing/Mix,-5710,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-12-01,A002,Price,Flevoland Solar B - Price,2231,Actual realized price versus budgeted realized price.
+2026-12-01,A002,Volume,Flevoland Solar B - Volume,-6639,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-12-01,A002,Downtime,Flevoland Solar B - Downtime,-1251,Estimated EBITDA impact from unplanned downtime above budget.
+2026-12-01,A002,Ramp-up,Flevoland Solar B - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2026-12-01,A002,Opex,Flevoland Solar B - Opex,-2565,Direct operating cost variance; negative values are adverse.
+2026-12-01,A002,Timing/Mix,Flevoland Solar B - Timing/Mix,-1047,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-12-01,A003,Price,Brabant Solar C - Price,819,Actual realized price versus budgeted realized price.
+2026-12-01,A003,Volume,Brabant Solar C - Volume,6589,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-12-01,A003,Downtime,Brabant Solar C - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2026-12-01,A003,Ramp-up,Brabant Solar C - Ramp-up,0,Battery/hydrogen ramp-up performance versus plan.
+2026-12-01,A003,Opex,Brabant Solar C - Opex,-1513,Direct operating cost variance; negative values are adverse.
+2026-12-01,A003,Timing/Mix,Brabant Solar C - Timing/Mix,-762,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-12-01,A004,Price,Rotterdam Battery D - Price,196569,Actual realized price versus budgeted realized price.
+2026-12-01,A004,Volume,Rotterdam Battery D - Volume,69520,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-12-01,A004,Downtime,Rotterdam Battery D - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2026-12-01,A004,Ramp-up,Rotterdam Battery D - Ramp-up,162212,Battery storage throughput reflects operational ramp-up and dispatch optimization.
+2026-12-01,A004,Opex,Rotterdam Battery D - Opex,-19309,Direct operating cost variance; negative values are adverse.
+2026-12-01,A004,Timing/Mix,Rotterdam Battery D - Timing/Mix,-2520,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."
+2026-12-01,A005,Price,Groningen Hydrogen Pilot E - Price,558,Actual realized price versus budgeted realized price.
+2026-12-01,A005,Volume,Groningen Hydrogen Pilot E - Volume,-37570,Production or throughput variance not separately attributed to downtime or ramp-up.
+2026-12-01,A005,Downtime,Groningen Hydrogen Pilot E - Downtime,0,Estimated EBITDA impact from unplanned downtime above budget.
+2026-12-01,A005,Ramp-up,Groningen Hydrogen Pilot E - Ramp-up,-87663,Hydrogen pilot ramp-up behind budgeted production curve.
+2026-12-01,A005,Opex,Groningen Hydrogen Pilot E - Opex,-169839,Direct operating cost variance; negative values are adverse.
+2026-12-01,A005,Timing/Mix,Groningen Hydrogen Pilot E - Timing/Mix,-5675,"Residual impact from overhead, capex timing context, rounding, and portfolio mix."

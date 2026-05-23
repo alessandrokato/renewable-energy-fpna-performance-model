@@ -1,0 +1,13 @@
+﻿scenario,technology,price_index,volume_factor,opex_inflation,downtime_factor,capex_delay_months,commentary
+Downside,Offshore wind,0.918,0.921,0.099,1.5,3,Downside assumption set for offshore wind.
+Downside,Solar PV,0.864,0.959,0.081,0.875,3,Downside assumption set for solar pv.
+Downside,Battery storage,1.008,0.996,0.095,1.312,3,Downside assumption set for battery storage.
+Downside,Hydrogen pilot,0.9,0.771,0.108,1.625,5,Downside assumption set for hydrogen pilot.
+Base,Offshore wind,1.02,0.98,0.055,1.2,1,Base assumption set for offshore wind.
+Base,Solar PV,0.96,1.02,0.045,0.7,1,Base assumption set for solar pv.
+Base,Battery storage,1.12,1.06,0.053,1.05,1,Base assumption set for battery storage.
+Base,Hydrogen pilot,1.0,0.82,0.06,1.3,1,Base assumption set for hydrogen pilot.
+Upside,Offshore wind,1.102,1.019,0.039,1.02,0,Upside assumption set for offshore wind.
+Upside,Solar PV,1.037,1.061,0.032,0.595,0,Upside assumption set for solar pv.
+Upside,Battery storage,1.21,1.102,0.037,0.892,0,Upside assumption set for battery storage.
+Upside,Hydrogen pilot,1.08,0.853,0.042,1.105,0,Upside assumption set for hydrogen pilot.

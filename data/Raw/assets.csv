@@ -1,0 +1,6 @@
+﻿asset_id,asset_name,technology,region,capacity_mw,commercial_start_date,ownership_share,asset_status
+A001,Noordzee Wind A,Offshore wind,Netherlands - North Sea,180,2022-09-01,1.0,Operating
+A002,Flevoland Solar B,Solar PV,Netherlands - Flevoland,75,2023-05-01,1.0,Operating
+A003,Brabant Solar C,Solar PV,Netherlands - Noord-Brabant,42,2021-06-01,1.0,Operating
+A004,Rotterdam Battery D,Battery storage,Netherlands - Zuid-Holland,60,2024-11-01,1.0,Ramping
+A005,Groningen Hydrogen Pilot E,Hydrogen pilot,Netherlands - Groningen,25,2025-03-01,0.8,Pilot
