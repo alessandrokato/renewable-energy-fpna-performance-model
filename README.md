@@ -6,7 +6,7 @@ This project demonstrates a junior analyst-style monthly performance pack using 
 
 ## Dashboard preview
 
-![Management dashboard](screenshots/management_dashboard.png)
+![Management dashboard](screenshots/management_dashboard.jpg)
 
 ## Project overview
 
@@ -39,10 +39,10 @@ The workbook compares actuals, budget, and forecast performance across a synthet
 renewable-energy-fpna-performance-model/
 ├── data/
 │   └── Raw/
-├── docs/
 ├── excel/
 │   └── renewable_energy_fpna_model.xlsx
 ├── screenshots/
+│   └── management_dashboard.jpg
 ├── README.md
 └── README_data_notes.md
 ```
@@ -50,3 +50,5 @@ renewable-energy-fpna-performance-model/
 ## Synthetic data note
 
 This project uses synthetic data created for portfolio demonstration purposes. Figures are illustrative and do not represent any real company, project, or market recommendation.
+
+[def]: screenshots/management_dashboard.jpg
