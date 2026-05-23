@@ -4,6 +4,10 @@ Synthetic Excel-based FP&A and business control model for a renewable energy ass
 
 This project demonstrates a junior analyst-style monthly performance pack using Excel, Power Query, structured formulas, variance analysis, scenario modeling, and management dashboarding.
 
+## Dashboard preview
+
+![Management dashboard](screenshots/management_dashboard.png)
+
 ## Project overview
 
 The workbook compares actuals, budget, and forecast performance across a synthetic renewable energy portfolio. It covers revenue, EBITDA, capex, production, downtime, availability, and key variance drivers.
